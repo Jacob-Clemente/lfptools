@@ -1,4 +1,4 @@
-project: jacob-clemente/lfptools
+project: lfptools
 target: lfpsplitter
 
 cmds:
